@@ -1,0 +1,11 @@
+c:\users\michaelchuang\documents\visual studio 2012\Projects\YLHR\YLHR\bin\Debug\YLHR.exe.config
+c:\users\michaelchuang\documents\visual studio 2012\Projects\YLHR\YLHR\bin\Debug\YLHR.exe
+c:\users\michaelchuang\documents\visual studio 2012\Projects\YLHR\YLHR\bin\Debug\YLHR.pdb
+c:\users\michaelchuang\documents\visual studio 2012\Projects\YLHR\YLHR\obj\Debug\YLHR.Properties.Resources.resources
+c:\users\michaelchuang\documents\visual studio 2012\Projects\YLHR\YLHR\obj\Debug\YLHR.csproj.GenerateResource.Cache
+c:\users\michaelchuang\documents\visual studio 2012\Projects\YLHR\YLHR\obj\Debug\YLHR.exe
+c:\users\michaelchuang\documents\visual studio 2012\Projects\YLHR\YLHR\obj\Debug\YLHR.pdb
+c:\users\michaelchuang\documents\visual studio 2012\Projects\YLHR\YLHR\obj\Debug\YLHR.csprojResolveAssemblyReference.cache
+c:\users\michaelchuang\documents\visual studio 2012\Projects\YLHR\YLHR\obj\Debug\YLHR.CreateNewEmployee.resources
+C:\Users\MichaelChuang\Documents\Visual Studio 2012\Projects\YLHR\YLHR\obj\Debug\YLHR.CreateNewAction.resources
+C:\Users\MichaelChuang\Documents\Visual Studio 2012\Projects\YLHR\YLHR\obj\Debug\YLHR.HumanResourceManagement.resources
